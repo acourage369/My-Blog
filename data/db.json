@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "My First Blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora porro numquam! Veritatis aliquam eos fugiat, praesentium ad atque, recusandae eligendi qui voluptatum, reiciendis et sequi soluta obcaecati perferendis hic.",
+            "author": "Dani",
+            "id": 1
+        },
+        {
+            "title": "My Tech Journey",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora porro numquam! Veritatis aliquam eos fugiat, praesentium ad atque, recusandae eligendi qui voluptatum, reiciendis et sequi soluta obcaecati perferendis hic.",
+            "author": "Brainy",
+            "id": 2
+        }
+    ]
+}
